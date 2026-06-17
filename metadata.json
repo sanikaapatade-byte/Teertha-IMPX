@@ -1,0 +1,6 @@
+{
+  "name": "Teertha Impx",
+  "description": "Premium import-export trading platform showcasing Teertha Impx's high-quality Agro Chemicals, Food Additives, Industrial Grade Products, Home Utensils, Vitamins, and Fresh Produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
