@@ -196,7 +196,7 @@ export const PRODUCTS: Product[] = [
     name: "Lactic Acid",
     category: "food-additives",
     description: "High-grade physiological acidity regulator widely used in bakery, brewing, and confectionery preservation processes.",
-    image: "https://images.unsplash.com/photo-1581093196867-9f6c5e57a829?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1693996045463-6ea86d10a2e7?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "80% Flavouring Liquid, 88% Pure Grade",
     packing: "25kg drum, 250kg IBC Tank"
   },
@@ -456,7 +456,7 @@ export const PRODUCTS: Product[] = [
     name: "Green Bird's Eye Chilis",
     category: "fruits-vegetables",
     description: "Pungent select fresh raw green chilis packed with vitamin C and intense, authentic spiciness.",
-    image: "https://images.unsplash.com/photo-1588252399414-fdc7d6fc0b91?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1599987141071-f5810d32e21a?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "Pungency 50k-80k SHU, fresh green stems on",
     packing: "5kg Breathable Poly Bags in cartons"
   },
