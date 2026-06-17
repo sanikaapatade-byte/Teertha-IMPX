@@ -25,9 +25,9 @@ export default function ContactSection({ selectedProductForInquiry }: ContactSec
   // Helper to generate a pre-filled mailto URL for real e-mail client integration
   const getMailtoUrl = (product: Product) => {
     const email = "Sales.Manager@teertha.com";
-    const subject = encodeURIComponent(`Bulk Sourcing Inquiry for ${product.name} - TEERTHA IMPX`);
+    const subject = encodeURIComponent(`Bulk Sourcing Inquiry for ${product.name} - TEERTHA IMPEX`);
     const body = encodeURIComponent(
-      `Hello Teertha Impx Sales team,\n\n` +
+      `Hello Teertha Impex Sales team,\n\n` +
       `I am interested in placing an import inquiry for "${product.name}" (Ref Model: ${product.originalName || product.name}).\n` +
       `Specification: ${product.specification || "Standard premium quality"}\n` +
       `Packing: ${product.packing || "Bulk Export Grade Pack"}\n\n` +
@@ -76,7 +76,7 @@ export default function ContactSection({ selectedProductForInquiry }: ContactSec
                 <div className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-emerald-500 shrink-0 mt-0.5" />
                   <div>
-                    <strong className="text-white block font-semibold mb-1 font-display">TEERTHA IMPX Office</strong>
+                    <strong className="text-white block font-semibold mb-1 font-display">TEERTHA IMPEX Office</strong>
                     Floor No 29, Second Floor,<br />
                     Plot No: 157/159, SHROFF BHUVAN,<br />
                     Premise Name: CARNIC BRIDGE,<br />
@@ -157,7 +157,7 @@ export default function ContactSection({ selectedProductForInquiry }: ContactSec
                     <Landmark className="relative w-6 h-6 text-emerald-500 bg-slate-950 p-1 rounded-full border border-emerald-500" />
                   </div>
                   <span className="mt-1.5 font-bold text-[9px] text-white bg-slate-950 px-2 py-0.5 rounded border border-slate-800 shadow whitespace-nowrap">
-                    Teertha Impx Corp
+                    Teertha Impex Corp
                   </span>
                   <span className="text-[7px] text-emerald-400/90 font-mono mt-0.5">
                     Near Yellow Gate Stn

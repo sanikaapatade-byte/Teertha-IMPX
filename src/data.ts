@@ -62,7 +62,7 @@ export const PRODUCTS: Product[] = [
     name: "Emamectin Benzoate",
     category: "agro-chemicals",
     description: "Highly efficient macrocyclic insecticide targeting damaging lepidocron pests on fruits, vegetables, and field crops.",
-    image: "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1655130944281-072e0644db75?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "95% TC, 5% WDG, 1.9% EC",
     packing: "25kg Paper Bag, 1kg Foil Bag"
   },
@@ -72,7 +72,7 @@ export const PRODUCTS: Product[] = [
     originalName: "profenophos",
     category: "agro-chemicals",
     description: "Organophosphorus compound boasting non-systemic acaricidal efficacy against spider mites and aphid species.",
-    image: "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1688892039994-37ee71aa23bc?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "94% TC, 50% EC",
     packing: "200L Drum, 1L Bottle"
   },
@@ -120,7 +120,7 @@ export const PRODUCTS: Product[] = [
     name: "Abamectin",
     category: "agro-chemicals",
     description: "Naturally occurring broad-spectrum pest control agent targeting mites, miners, and crop parasites in high-value horticulture.",
-    image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1696371269544-e2601fd835f5?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "95% TC, 1.8% EC, 3.6% EC",
     packing: "200L Iron Drum, 1L PET Bottle"
   },
@@ -138,7 +138,7 @@ export const PRODUCTS: Product[] = [
     name: "Humic Acid Flakes",
     category: "agro-chemicals",
     description: "Advanced humic bio-stimulant flakes providing vital natural carbon and nitrogen nourishment mechanisms to dry farming soils.",
-    image: "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1642952273588-ed6fa28870ac?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "Humic Acid >= 70%, Fulvic Acid >= 15%",
     packing: "25kg Woven Bag"
   },
@@ -364,7 +364,7 @@ export const PRODUCTS: Product[] = [
     name: "Vitamin A",
     category: "vitamin-pharma",
     description: "Pure retinol/retinyl acetate chemical preparation critical for optic health and dietary nourishment fortification.",
-    image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1664956618021-73c47736845e?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "Acetate/Palmitate 1.0M IU/g EP/USP",
     packing: "25kg nitrogen-filled aluminum tin"
   },
@@ -373,7 +373,7 @@ export const PRODUCTS: Product[] = [
     name: "Vitamin D3",
     category: "vitamin-pharma",
     description: "High potency Cholecalciferol compound synthesized for calcium assimilation support in human/animal healthcare pharmaceuticals.",
-    image: "https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1624362772755-4d5843e67047?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "Crystalline 40M IU/g, Food Beadlets 100k",
     packing: "25kg metal drum container"
   },
@@ -382,7 +382,7 @@ export const PRODUCTS: Product[] = [
     name: "Vitamin D2",
     category: "vitamin-pharma",
     description: "Plant-derived Ergocalciferol active crystalline ingredients for medical vegetarian health supplements.",
-    image: "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1581159186721-b68b78da4ec9?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "98% Min Active Crystals EP Grade",
     packing: "10kg Foil pouch with dry ice shipping"
   },
@@ -391,7 +391,7 @@ export const PRODUCTS: Product[] = [
     name: "Vitamin E",
     category: "vitamin-pharma",
     description: "Pure multi-isomer Tocopheryl acetate active compounds providing unrivaled free-radical protection in pharmaceutical cosmetics.",
-    image: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1732900293895-233f769299b3?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "98% DL-alpha-Tocopheryl Oil USP",
     packing: "200kg steel blue drums"
   },
@@ -400,7 +400,7 @@ export const PRODUCTS: Product[] = [
     name: "Vitamin B12",
     category: "vitamin-pharma",
     description: "Pharma-grade cyanocobalamin ingredient support essential for red blood cell synthesis and central nervous systems.",
-    image: "https://images.unsplash.com/photo-1445510491599-c391e8046a68?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1606015989047-2ecc98a23ae1?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "Pure Cyanocobalamin 99% USP EP",
     packing: "1kg Aluminum Vacuum Bottle"
   },
@@ -418,7 +418,7 @@ export const PRODUCTS: Product[] = [
     name: "Vitamin K",
     category: "vitamin-pharma",
     description: "Essential coagulation active pharmaceutical preparation formulated for cardiovascular support and bone calcification.",
-    image: "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?auto=format&fit=crop&q=80&w=600&h=600",
+    image: "https://images.unsplash.com/photo-1583088580009-2d947c3e90a6?auto=format&fit=crop&q=80&w=600&h=600",
     specification: "Phytomenadione (K1) 98% Min Active USP",
     packing: "5kg Nitrogen Tin canister"
   },

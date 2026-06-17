@@ -32,11 +32,11 @@ export default function AboutSection() {
         <div className="text-center max-w-3xl mx-auto">
           <h2 className="text-sm font-bold text-emerald-600 uppercase tracking-widest font-mono">Company Profile</h2>
           <p className="mt-3 text-3xl sm:text-4xl font-extrabold text-slate-900 font-display tracking-tight">
-            TEERTHA IMPX — Your Trusted Global Sourcing House
+            TEERTHA IMPEX — Your Trusted Global Sourcing House
           </p>
           <div className="w-16 h-1 bg-emerald-600 mx-auto mt-4 rounded"></div>
           <p className="mt-5 text-lg text-slate-600 font-light leading-relaxed">
-            Headquartered in the historic, bustling hub of Mumbai Fort, <strong className="text-slate-800 font-semibold">Teertha Impx</strong> has grown to become a cornerstone supplier for worldwide manufacturing, industrial, and agricultural clients. We bridge the gap between high-yield formulations and dynamic consumer markets.
+            Headquartered in the historic, bustling hub of Mumbai Fort, <strong className="text-slate-800 font-semibold">Teertha Impex</strong> has grown to become a cornerstone supplier for worldwide manufacturing, industrial, and agricultural clients. We bridge the gap between high-yield formulations and dynamic consumer markets.
           </p>
         </div>
 
@@ -47,7 +47,7 @@ export default function AboutSection() {
             <div className="relative rounded-2xl overflow-hidden shadow-xl border border-slate-200 bg-white p-2">
               <img
                 src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&q=80&w=900&h=600"
-                alt="Teertha Impx shipping operations"
+                alt="Teertha Impex shipping operations"
                 className="rounded-xl w-full h-auto object-cover"
                 referrerPolicy="no-referrer"
               />
@@ -65,7 +65,7 @@ export default function AboutSection() {
               Uncompromising Quality in Global Supply Chains
             </h3>
             <p className="text-slate-600 leading-relaxed font-light">
-              We specialize in the export-import trade of diversified vital product branches. From complex crop-saving chemicals like Chlorantraniliprole and Emamectin Benzoate, biological food additives like Citric Acid and L-Threonine, to premium Indian fresh Alfonso Mangoes and premium farm onions—Teertha Impx maintains stringent compliance and customized batch packing for all cargo.
+              We specialize in the export-import trade of diversified vital product branches. From complex crop-saving chemicals like Chlorantraniliprole and Emamectin Benzoate, biological food additives like Citric Acid and L-Threonine, to premium Indian fresh Alfonso Mangoes and premium farm onions—Teertha Impex maintains stringent compliance and customized batch packing for all cargo.
             </p>
 
             <ul className="space-y-3">

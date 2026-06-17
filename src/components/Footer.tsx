@@ -22,14 +22,14 @@ export default function Footer() {
                 <Landmark className="w-5 h-5" />
               </div>
               <span className="text-lg font-extrabold tracking-tight text-white font-display">
-                TEERTHA <span className="text-emerald-500 font-semibold text-sm font-mono tracking-[3px] block">IMPX</span>
+                TEERTHA <span className="text-emerald-500 font-semibold text-sm font-mono tracking-[3px] block">IMPEX</span>
               </span>
             </div>
             <p className="text-xs leading-relaxed text-slate-400 font-light max-w-sm">
-              Teertha Impx is an accredited global trade integrator with ISO, FIEO, and sector-specific clearances. Based in Mumbai Fort, we export agrochemicals, additives, industrial solutions, home utensils, pharmaceuticals, and fresh produce lines to every major regional sea terminal.
+              Teertha Impex is an accredited global trade integrator with ISO, FIEO, and sector-specific clearances. Based in Mumbai Fort, we export agrochemicals, additives, industrial solutions, home utensils, pharmaceuticals, and fresh produce lines to every major regional sea terminal.
             </p>
             <div className="text-slate-500 font-mono text-[10px]">
-              © {new Date().getFullYear()} Teertha Impx Ltd. All Rights Reserved.
+              © {new Date().getFullYear()} Teertha Impex Ltd. All Rights Reserved.
             </div>
           </div>
 

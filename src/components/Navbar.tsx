@@ -54,7 +54,7 @@ export default function Navbar({ activeSection, setActiveSection }: NavbarProps)
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center gap-1">
             <Globe className="w-3.5 h-3.5 text-emerald-400 animate-spin-slow" />
-            <span className="font-medium tracking-wide">TEERTHA IMPX — LEADING GLOBAL EXPORT INTEGRATOR</span>
+            <span className="font-medium tracking-wide">TEERTHA IMPEX — LEADING GLOBAL EXPORT INTEGRATOR</span>
           </div>
           <div className="flex items-center gap-4">
             <a href="mailto:Sales.Manager@teertha.com" className="hover:text-emerald-400 transition-colors flex items-center gap-1">
@@ -88,7 +88,7 @@ export default function Navbar({ activeSection, setActiveSection }: NavbarProps)
               </div>
               <div>
                 <span className="text-xl font-extrabold tracking-tight text-white font-display block leading-none">
-                  TEERTHA <span className="text-emerald-400 font-semibold text-base block font-mono tracking-[4px] mt-1">IMPX</span>
+                  TEERTHA <span className="text-emerald-400 font-semibold text-base block font-mono tracking-[4px] mt-1">IMPEX</span>
                 </span>
               </div>
             </div>

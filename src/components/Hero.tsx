@@ -50,7 +50,7 @@ export default function Hero({ onLearnMoreClick, onExploreProductsClick }: HeroP
               transition={{ duration: 0.6, delay: 0.3 }}
               className="mt-6 text-lg sm:text-xl text-slate-300 max-w-2xl font-light leading-relaxed"
             >
-              <strong className="text-white font-semibold">TEERTHA IMPX</strong> is a premium, premier trading house based out of Mumbai Fort. We deliver precision-certified Agro Chemicals, Food Additives, Industrial Grade polymers, home utilities, vital pharmaceuticals, and fresh high-grade fruits and veggies straight to world ports.
+              <strong className="text-white font-semibold">TEERTHA IMPEX</strong> is a premium, premier trading house based out of Mumbai Fort. We deliver precision-certified Agro Chemicals, Food Additives, Industrial Grade polymers, home utilities, vital pharmaceuticals, and fresh high-grade fruits and veggies straight to world ports.
             </motion.p>
 
             <motion.div
@@ -123,7 +123,7 @@ export default function Hero({ onLearnMoreClick, onExploreProductsClick }: HeroP
 
                 <div className="rounded-2xl overflow-hidden shadow-2xl relative group h-[220px] mt-8">
                   <img
-                    src="https://images.unsplash.com/photo-1610970881699-44a5587caa9a?auto=format&fit=crop&q=80&w=400&h=400"
+                    src="https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=400&h=400"
                     alt="Food Ingredients"
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                     referrerPolicy="no-referrer"
@@ -135,7 +135,7 @@ export default function Hero({ onLearnMoreClick, onExploreProductsClick }: HeroP
 
                 <div className="rounded-2xl overflow-hidden shadow-2xl relative group h-[220px] -mt-8">
                   <img
-                    src="https://images.unsplash.com/photo-1611926653458-09294b3142bf?auto=format&fit=crop&q=80&w=400&h=400"
+                    src="https://images.unsplash.com/photo-1583088580009-2d947c3e90a6?auto=format&fit=crop&q=80&w=400&h=400"
                     alt="Vitamins and Pharma"
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                     referrerPolicy="no-referrer"
