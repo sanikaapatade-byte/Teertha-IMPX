@@ -57,13 +57,9 @@ export default function Navbar({ activeSection, setActiveSection }: NavbarProps)
             <span className="font-medium tracking-wide">TEERTHA IMPEX — LEADING GLOBAL EXPORT INTEGRATOR</span>
           </div>
           <div className="flex items-center gap-4">
-            <a href="mailto:Sales.Manager@teertha.com" className="hover:text-emerald-400 transition-colors flex items-center gap-1">
-              <Mail className="w-3.5 h-3.5" /> Sales.Manager@teertha.com
+            <a href="mailto:Sales.Manager@teerthaimpex.com" className="hover:text-emerald-400 transition-colors flex items-center gap-1">
+              <Mail className="w-3.5 h-3.5" /> Sales.Manager@teerthaimpex.com
             </a>
-            <span className="text-emerald-800">|</span>
-            <span className="flex items-center gap-1">
-              <Phone className="w-3.5 h-3.5 text-emerald-400" /> +91 (22) 2261-0570
-            </span>
           </div>
         </div>
       </div>

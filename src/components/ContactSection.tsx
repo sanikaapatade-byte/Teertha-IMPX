@@ -16,15 +16,15 @@ export default function ContactSection({ selectedProductForInquiry }: ContactSec
   }, [selectedProductForInquiry]);
 
   const emailContacts = [
-    { label: "Purchase Department", email: "Purchase.Manager@teertha.com" },
-    { label: "Global Sales Manager", email: "Sales.Manager@teertha.com" },
-    { label: "Accounts & Financials (Kiran Sharma)", email: "Kiran.Sharma@teertha.com" },
-    { label: "Logistics Coordination (Rohit Kumar)", email: "Rohit.Kumar@teertha.com" }
+    { label: "Purchase Department", email: "Purchase.Manager@teerthaimpex.com" },
+    { label: "Global Sales Manager", email: "Sales.Manager@teerthaimpex.com" },
+    { label: "Accounts & Financials (Kiran Sharma)", email: "Kiran.Sharma@teerthaimpex.com" },
+    { label: "Logistics Coordination (Rohit Kumar)", email: "Rohit.Kumar@teerthaimpex.com" }
   ];
 
   // Helper to generate a pre-filled mailto URL for real e-mail client integration
   const getMailtoUrl = (product: Product) => {
-    const email = "Sales.Manager@teertha.com";
+    const email = "Sales.Manager@teerthaimpex.com";
     const subject = encodeURIComponent(`Bulk Sourcing Inquiry for ${product.name} - TEERTHA IMPEX`);
     const body = encodeURIComponent(
       `Hello Teertha Impex Sales team,\n\n` +
@@ -89,10 +89,6 @@ export default function ContactSection({ selectedProductForInquiry }: ContactSec
               </div>
             </div>
 
-            <div className="mt-8 pt-4 border-t border-slate-800/80 flex items-center gap-2.5">
-              <Phone className="w-4 h-4 text-emerald-400" />
-              <span className="font-mono text-xs text-slate-300">+91 (22) 2261-0570 / +91 98201 44585</span>
-            </div>
           </div>
 
           {/* Card 2: Strategic Direct Emails */}

@@ -61,15 +61,11 @@ export default function Footer() {
                 For prompt replies, mail directly to our Global Sales Manager:
               </p>
               <a
-                href="mailto:Sales.Manager@teertha.com"
+                href="mailto:Sales.Manager@teerthaimpex.com"
                 className="text-emerald-400 font-mono font-semibold hover:underline flex items-center gap-2"
               >
-                <Mail className="w-3.5 h-3.5" /> Sales.Manager@teertha.com
+                <Mail className="w-3.5 h-3.5" /> Sales.Manager@teerthaimpex.com
               </a>
-              <div className="flex items-center gap-2 pt-1">
-                <Phone className="w-3.5 h-3.5 text-emerald-500" />
-                <span className="font-mono text-slate-300 font-semibold">+91 (22) 2261-0570</span>
-              </div>
             </div>
           </div>
         </div>
