@@ -1,4 +1,4 @@
-import { Landmark, ArrowUp, Mail, Phone, ChevronRight } from "lucide-react";
+import { ArrowUp, Mail, ChevronRight } from "lucide-react";
 
 export default function Footer() {
   const scrollToTop = () => {
@@ -17,13 +17,12 @@ export default function Footer() {
           
           {/* Column 1: Company details */}
           <div className="md:col-span-5 space-y-4">
-            <div className="flex items-center gap-2.5">
-              <div className="p-2 bg-slate-900 text-emerald-500 rounded-lg border border-slate-800">
-                <Landmark className="w-5 h-5" />
-              </div>
-              <span className="text-lg font-extrabold tracking-tight text-white font-display">
-                TEERTHA <span className="text-emerald-500 font-semibold text-sm font-mono tracking-[3px] block">IMPEX</span>
-              </span>
+            <div className="flex items-center">
+              <img
+                src="/logo.jpg"
+                alt="Teertha Impex"
+                className="h-12 w-auto object-contain rounded-lg bg-white px-1 py-0.5"
+              />
             </div>
             <p className="text-xs leading-relaxed text-slate-400 font-light max-w-sm">
               Teertha Impex is an accredited global trade integrator with ISO, FIEO, and sector-specific clearances. Based in Mumbai Fort, we export agrochemicals, additives, industrial solutions, home utensils, pharmaceuticals, and fresh produce lines to every major regional sea terminal.

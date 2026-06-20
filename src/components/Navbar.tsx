@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Globe, Menu, X, Landmark, Phone, Mail } from "lucide-react";
+import { Globe, Menu, X, Mail } from "lucide-react";
 
 interface NavbarProps {
   activeSection: string;
@@ -77,16 +77,16 @@ export default function Navbar({ activeSection, setActiveSection }: NavbarProps)
             {/* Logo */}
             <div
               onClick={() => handleNavClick("home")}
-              className="flex items-center gap-2.5 cursor-pointer group"
+              className="flex items-center gap-3 cursor-pointer"
             >
-              <div className="p-2 bg-white text-emerald-900 rounded-lg group-hover:bg-emerald-400 group-hover:text-emerald-950 transition-all duration-300 shadow-sm">
-                <Landmark className="w-6 h-6" />
-              </div>
-              <div>
-                <span className="text-xl font-extrabold tracking-tight text-white font-display block leading-none">
-                  TEERTHA <span className="text-emerald-400 font-semibold text-base block font-mono tracking-[4px] mt-1">IMPEX</span>
-                </span>
-              </div>
+              <img
+                src="/logo.jpg"
+                alt="Teertha Impex"
+                className="h-14 w-auto object-contain rounded-lg bg-white px-1.5 py-1 shadow-sm"
+              />
+              <span className="text-xl font-extrabold tracking-widest text-white font-display leading-none hidden sm:block">
+                TEERTHA<span className="text-emerald-400">IMPEX</span>
+              </span>
             </div>
 
             {/* Desktop Navigation */}
