@@ -30,6 +30,7 @@ export default function Footer() {
             <div className="text-slate-500 font-mono text-[10px]">
               © {new Date().getFullYear()} Teertha Impex Ltd. All Rights Reserved.
             </div>
+            
           </div>
 
           {/* Column 2: Quick Links */}
