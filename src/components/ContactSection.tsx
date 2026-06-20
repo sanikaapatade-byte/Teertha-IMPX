@@ -86,6 +86,10 @@ export default function ContactSection({ selectedProductForInquiry }: ContactSec
                     City: Mumbai, Maharashtra - 400001
                   </div>
                 </div>
+                <div className="flex items-center gap-3">
+                  <Phone className="w-5 h-5 text-emerald-500 shrink-0" />
+                  <span className="font-mono font-semibold text-slate-200">+91 85579 05766</span>
+                </div>
               </div>
             </div>
 

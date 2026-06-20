@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Globe, Menu, X, Mail } from "lucide-react";
+import { Globe, Menu, X, Mail, Phone } from "lucide-react";
 
 interface NavbarProps {
   activeSection: string;
@@ -60,6 +60,10 @@ export default function Navbar({ activeSection, setActiveSection }: NavbarProps)
             <a href="mailto:Sales.Manager@teerthaimpex.com" className="hover:text-emerald-400 transition-colors flex items-center gap-1">
               <Mail className="w-3.5 h-3.5" /> Sales.Manager@teerthaimpex.com
             </a>
+            <span className="text-emerald-800">|</span>
+            <span className="flex items-center gap-1">
+              <Phone className="w-3.5 h-3.5 text-emerald-400" /> +91 85579 05766
+            </span>
           </div>
         </div>
       </div>
