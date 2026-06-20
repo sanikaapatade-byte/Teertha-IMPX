@@ -16,6 +16,7 @@ export default function ContactSection({ selectedProductForInquiry }: ContactSec
   }, [selectedProductForInquiry]);
 
   const emailContacts = [
+    { label: "General Inquiries", email: "info@teerthaimpex.com" },
     { label: "Purchase Department", email: "Purchase.Manager@teerthaimpex.com" },
     { label: "Global Sales Manager", email: "Sales.Manager@teerthaimpex.com" },
     { label: "Accounts & Financials (Kiran Sharma)", email: "Kiran.Sharma@teerthaimpex.com" },
