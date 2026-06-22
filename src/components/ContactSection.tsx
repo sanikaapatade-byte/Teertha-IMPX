@@ -89,7 +89,7 @@ export default function ContactSection({ selectedProductForInquiry }: ContactSec
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone className="w-5 h-5 text-emerald-500 shrink-0" />
-                  <span className="font-mono font-semibold text-slate-200">+91 85579 05766</span>
+                  <span className="font-mono font-semibold text-slate-200">+91 93094 24712</span>
                 </div>
               </div>
             </div>
