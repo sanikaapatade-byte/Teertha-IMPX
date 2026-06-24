@@ -17,6 +17,8 @@ export interface Category {
   bannerImage: string;
 }
 
+
+
 export interface ContactMessage {
   name: string;
   email: string;
